@@ -1266,7 +1266,7 @@ body._lock {
   aspect-ratio: 400/267;
   position: relative;
   margin-bottom: 15px;
-  overflow-x: hidden;
+  overflow: hidden;
   background: var(--bg);
 }
 
